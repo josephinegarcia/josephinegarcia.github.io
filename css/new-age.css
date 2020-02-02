@@ -294,7 +294,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/screenshot.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -409,7 +409,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .leftGeom {
-  background: url("../img/Pattern left.svg");
+  background: url("../img/NEW Pattern left.svg");
 }
 
 .rightGeom {
